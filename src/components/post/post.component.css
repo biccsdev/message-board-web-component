@@ -1,0 +1,19 @@
+section a {
+  color: #f29900;
+}
+section a:hover {
+  color: #fff;
+}
+
+.date {
+  color: #ccc;
+  background: #3d3e42;
+  text-align: right;
+  margin: 4px 0 5px 0;
+  padding: 0.4em 0 0 0;
+  border-top: 1px solid #555;
+}
+
+.date a {
+  color: #ccc;
+}
